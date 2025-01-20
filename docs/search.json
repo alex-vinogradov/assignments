@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Завдання з курсу",
     "section": "",
-    "text": "Передмова",
+    "text": "Передмова\nяк виглядає роздруківка:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00",
     "crumbs": [
       "Передмова"
     ]

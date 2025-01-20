@@ -4,8 +4,6 @@ project:
 
 lang: uk-UA
 
-title-block-banner: true
-
 book:
   title: "Завдання з курсу"
   author: "Олександр Виноградов"
@@ -21,13 +19,16 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - darkly
-      - brand
+      - United
+
+title-block-banner: true
+title-block-banner-color: "#ffff00"
+monobackgroundcolor: "#ffffcc"
 
 crossref: 
   tbl-title: "Таблиця"
   tbl-prefix: "Таб."
   
-toc-title: "Зміст"
+toc-title: "на цій сторінці"
 author-title: "автор"
 published-title: "опубліковано"
