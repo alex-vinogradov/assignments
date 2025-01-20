@@ -8,5 +8,25 @@
     "crumbs": [
       "Передмова"
     ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Заключення",
+    "section": "",
+    "text": "Висновки з роботи",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Заключення</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Література",
+    "section": "",
+    "text": "Тут будуть наведені важливі джерела",
+    "crumbs": [
+      "Література"
+    ]
   }
 ]
